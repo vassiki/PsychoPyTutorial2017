@@ -7,5 +7,4 @@ psychological experiment written in PsychoPy
 
 In this tutorial we go over both Builder and Coder versions of PsychoPy
 
-Please fork this repository to run and edit the Jupyter Notebooks used for 
-teaching 
+Please fork this repository to run and edit the [Jupyter Notebooks](http://jupyter.org) used for teaching 
