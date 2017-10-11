@@ -1,5 +1,6 @@
+# PsychoPy Tutorials 
 This repository contains lecture materials for a class on stimulus 
-presentation taught by Vassiki Chauhan at DBIC, Dartmouth. 
+presentation taught by **Vassiki Chauhan** at DBIC, Dartmouth. 
 
 This class starts with revisiting python basics and finishes with a working
 psychological experiment written in PsychoPy
