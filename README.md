@@ -15,4 +15,9 @@ Please fork this repository to run and edit the [Jupyter Notebooks](http://jupyt
 - Using the lecture materials 
 - Revisting Python basics
 - Stroop Task with the GUI
-- Assignment Week 1   
+- Assignment Week 1 
+
+## Potential things to learn
+
+- Git/github tutorial?
+- Using Jupyter Notebooks?  
