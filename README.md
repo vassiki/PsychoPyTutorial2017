@@ -17,7 +17,8 @@ Please fork this repository to run and edit the [Jupyter Notebooks](http://jupyt
 - Stroop Task with the GUI
 - Assignment Week 1 
 
-## Potential things to learn
+## Week 2 Syllabus
 
-- Git/github tutorial?
-- Using Jupyter Notebooks?  
+- Using the Psychopy GUI for simple tasks
+- Python Basics continued 
+- Using git and github for those interested
