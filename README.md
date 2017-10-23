@@ -22,3 +22,8 @@ Please fork this repository to run and edit the [Jupyter Notebooks](http://jupyt
 - Using the Psychopy GUI for simple tasks
 - Python Basics continued 
 - Using git and github for those interested
+
+### Assignment 1
+Using builder to create stroop task, also insert a break screen after every 6 trials,
+asking the subject to press a key to continue. You can use the Excel sheet we wrote 
+together in class for specifying the conditions! 
