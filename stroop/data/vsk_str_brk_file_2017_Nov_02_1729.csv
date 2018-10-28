@@ -1,0 +1,8 @@
+color,word,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,key_resp_2.keys,key_resp_2.rt,date,frameRate,expName,session,participant,
+blue,green ,0,0,0,24,left,1.00453186035,2017_Nov_02_1729,60.0929840724,str_brk_file,001,vsk,
+red,blue,0,1,1,17,left,0.585839033127,2017_Nov_02_1729,60.0929840724,str_brk_file,001,vsk,
+blue,red,0,2,2,8,left,0.602165937424,2017_Nov_02_1729,60.0929840724,str_brk_file,001,vsk,
+blue,red,0,3,3,28,space,5.91911911964,2017_Nov_02_1729,60.0929840724,str_brk_file,001,vsk,
+red,green,0,4,4,23,left,0.185477972031,2017_Nov_02_1729,60.0929840724,str_brk_file,001,vsk,
+red,red,0,5,5,16,left,0.369425058365,2017_Nov_02_1729,60.0929840724,str_brk_file,001,vsk,
+red,green,0,6,6,3,space,1.40320587158,2017_Nov_02_1729,60.0929840724,str_brk_file,001,vsk,

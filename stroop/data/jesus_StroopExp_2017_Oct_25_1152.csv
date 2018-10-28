@@ -1,0 +1,7 @@
+congruent,word,corrAns,letterColor,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trialResp.keys,trialResp.corr,trialResp.rt,date,frameRate,expName,session,participant,
+0,blue,left,red,0,0,0,5,left,1,0.887132167816,2017_Oct_25_1152,59.9908747248,StroopExp,001,jesus,
+0,green,right,blue,0,1,1,3,down,0,1.01741504669,2017_Oct_25_1152,59.9908747248,StroopExp,001,jesus,
+1,blue,right,blue,0,2,2,4,right,1,0.73526096344,2017_Oct_25_1152,59.9908747248,StroopExp,001,jesus,
+0,red,down,green,0,3,3,1,down,1,0.652189016342,2017_Oct_25_1152,59.9908747248,StroopExp,001,jesus,
+1,red,left,red,0,4,4,0,left,1,0.669097900391,2017_Oct_25_1152,59.9908747248,StroopExp,001,jesus,
+1,green,down,green,0,5,5,2,down,1,0.617042064667,2017_Oct_25_1152,59.9908747248,StroopExp,001,jesus,
